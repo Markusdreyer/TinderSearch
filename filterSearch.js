@@ -13,7 +13,6 @@ a = setInterval(
     else {
         console.log("Disliked " + name[1].innerHTML);
         dislike[0].click();
-        console.log(intervalTimer);
     }
 
     /***
